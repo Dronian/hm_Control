@@ -2,8 +2,5 @@ My first project.
 Some updates to this project.
 Feature 3 implementation.
 Feature 4 implementation.
-<<<<<<< HEAD
-Another conflicting change.
-=======
-Conflicting change.
->>>>>>> conflict-branch
+
+Another conflicting change. Conflicting change.
